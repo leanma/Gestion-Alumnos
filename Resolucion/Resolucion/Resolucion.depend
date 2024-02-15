@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1708022251 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\gestion alumnos\resolucion\resolucion\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbol.h"
+	"Gestion.h"
+
+1708022137 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\gestion alumnos\resolucion\resolucion\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1708022118 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\gestion alumnos\resolucion\resolucion\gestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1708022202 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\gestion alumnos\resolucion\resolucion\gestion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Gestion.h"
+	"Arbol.h"
+
+1708021757 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\proyectos\gestion alumnos\resolucion\resolucion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Gestion.h"
+	"Arbol.h"
+
